@@ -37,7 +37,7 @@ Não entende/conhece de algumas das tecnologias descritas acima? Não tem proble
 ## Quais são as etapas para participar do processo?
 **ATENÇÃO: O PRAZO SE ENCERRA DIA 18/07/2018** :running:
 * Responda nosso [formulário](https://bit.ly/vaga-back-end-kratos).
-* Faça um [fork]() desse projeto em sua conta do GitHub.
+* Faça um [fork](https://github.com/somoskratos/teste-back-end/fork) desse projeto em sua conta do GitHub.
 * Implemente o desafio proposto abaixo.
 * Faça um push para seu repositório com o desafio implementado.
 * Envie um email para (vagas@somoskratos.com.br) com a URL do seu fork avisando que você concluiu o projeto.
