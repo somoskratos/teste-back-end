@@ -105,7 +105,9 @@ Para o exemplo apresentado a resposta seria a seguinte:
 	}]
 }
 ```
-Os valores devem ser retornados com somente duas casas decimais. 
+#### Requisitos:
+* Os valores devem ser retornados com somente duas casas decimais. 
+* Os dados não devem ser persistidos.
 
 ## API REST
 ##### Request
