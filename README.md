@@ -99,6 +99,7 @@ Socio
 * Implemente o desafio de código
 * Configure o circle CI para rodar os testes do projeto
 * Faça um push de sua branch com o desafio implementado.
+* Crie um pull request para branch master
 * Envie um email para (vagas@somoskratos.com.br) com o nome de sua branch informando que você concluiu o projeto.
 
 ## Restou alguma dúvida?
